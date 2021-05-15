@@ -17,6 +17,8 @@ This is a simple dynamic website which has the following specifications:
 
 # Tech Stack
 **FRONT END**: HTML, CSS, Bootstrap
+
 **BACK END**: PHP
+
 **DATABASE**: MySQL
 
