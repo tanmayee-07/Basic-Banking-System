@@ -13,7 +13,7 @@ This is a simple dynamic website which has the following specifications:
 -  No Login Page. No User Creation. Only transfer of money between
    multiple users.
    
--  Website hosted at http://sparkbanktanmayee.epizy.com/
+-  Website hosted at https://tsftanmayee.000webhostapp.com/
 
 # Tech Stack
 **FRONT END**: HTML, CSS, Bootstrap
